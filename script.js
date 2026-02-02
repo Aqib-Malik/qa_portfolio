@@ -412,5 +412,5 @@ document.addEventListener('DOMContentLoaded', () => {
     updateActiveLink();
 
     console.log('%c🎨 Portfolio Loaded Successfully!', 'color: #667eea; font-size: 20px; font-weight: bold;');
-    console.log('%cDesigned & Developed by Syed Muhammad Haris Ali', 'color: #764ba2; font-size: 14px;');
+    console.log('%cDesigned & Developed by Qasim Mahmood', 'color: #764ba2; font-size: 14px;');
 });
